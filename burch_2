@@ -1,0 +1,15 @@
+<title>新页面</title>
+<body>
+    <div>
+        <p style="
+            font-size: 70px;
+            color: #f1f1f1;">
+            网页的第二个分支，测试一个分界面。
+        </p>
+        <p style="
+            font-size: 70px;
+            color: wheat;">
+            This is burch of my website for test inter face.
+        </p>
+    </div>
+</body>
